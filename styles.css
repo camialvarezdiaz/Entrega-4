@@ -270,6 +270,10 @@ p{
     font-size: 2rem;
 }
 
+iframe{
+    border-radius: 10px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 1);
+}
 .date-container{
     display: flex;
     flex-direction: column;
