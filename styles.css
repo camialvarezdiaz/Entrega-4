@@ -25,6 +25,7 @@
 
 
 .header{
+    max-width: 1500px;
     height: 100px;
     display: flex;
     position: fixed;
@@ -33,6 +34,7 @@
     width: 100%;
     align-items: center;
     background-color: black;
+    max-width: 100%;
 }
 
 .nav{
@@ -182,10 +184,12 @@ p{
     gap: 10px;
     background-image:url(./img/fondo.jpg);
     border-radius: 10px;
+    margin:0 auto;
  }
 .card-img{
     width: 250px;
     border-radius: 10px;
+    margin: 0 auto;
 }
 
 .cartas-contain{
@@ -195,6 +199,7 @@ p{
     align-items: center;
     gap: 30px;
     padding-top: 50px;
+    margin: 0 auto;
 }
 
 .cartas-top{

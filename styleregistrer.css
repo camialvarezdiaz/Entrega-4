@@ -5,6 +5,7 @@
     list-style: none;
     text-decoration: none;
     border: 1px;
+    max-width: 1120px;
 }
 
 .body{
